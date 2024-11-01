@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: simple-move-comments 1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-22 22:30+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Peter Hilbring <peter@hilbring.de>\n"
+"Language-Team: Peter Hilbring <peter@hilbring.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simple-move-comments.php:61
+#: simple-move-comments.php:86
+#: simple-move-comments.php:345
+msgid "Move Comments"
+msgstr ""
+
+#: simple-move-comments.php:70
+msgid "requires WordPress version 2.8 or later!"
+msgstr ""
+
+#: simple-move-comments.php:122
+#: _ajax.php:94
+#, php-format
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: simple-move-comments.php:123
+#, php-format
+msgid "Moved %1$s from %2$s to %3$s"
+msgstr ""
+
+#: simple-move-comments.php:248
+msgid "Move comments"
+msgstr ""
+
+#: simple-move-comments.php:262
+#: simple-move-comments.php:306
+msgid "Author "
+msgstr ""
+
+#: simple-move-comments.php:264
+#: simple-move-comments.php:308
+msgid "all"
+msgstr ""
+
+#: simple-move-comments.php:276
+#: simple-move-comments.php:320
+msgid "Comment "
+msgstr ""
+
+#: simple-move-comments.php:278
+#: simple-move-comments.php:322
+msgid "any "
+msgstr ""
+
+#: simple-move-comments.php:279
+#: simple-move-comments.php:323
+msgid "begins with "
+msgstr ""
+
+#: simple-move-comments.php:280
+#: simple-move-comments.php:324
+msgid "contains "
+msgstr ""
+
+#: simple-move-comments.php:286
+#: simple-move-comments.php:330
+msgid "Sort by "
+msgstr ""
+
+#: simple-move-comments.php:288
+#: simple-move-comments.php:332
+msgid "name ascending"
+msgstr ""
+
+#: simple-move-comments.php:289
+#: simple-move-comments.php:333
+msgid "name descending"
+msgstr ""
+
+#: simple-move-comments.php:290
+#: simple-move-comments.php:334
+msgid "date ascending"
+msgstr ""
+
+#: simple-move-comments.php:291
+#: simple-move-comments.php:335
+msgid "date descending"
+msgstr ""
+
+#: simple-move-comments.php:296
+msgid "From "
+msgstr ""
+
+#: simple-move-comments.php:340
+msgid "To "
+msgstr ""
+
+#: simple-move-comments.php:350
+msgid "History"
+msgstr ""
+
+#: simple-move-comments.php:357
+#: simple-move-comments.php:358
+msgid "loading..."
+msgstr ""
+
+#: _ajax.php:19
+msgid "You must be logged in to run this script."
+msgstr ""
+
+#: _ajax.php:22
+msgid "Parameter failure."
+msgstr ""
+
